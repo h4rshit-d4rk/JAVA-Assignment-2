@@ -1,2 +1,2 @@
 # JAVA-Assignment-2
-Codes for learning basics in Java.
+Codes for learning basics and advanced in Java.
